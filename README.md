@@ -1,2 +1,15 @@
-# ooplabs
-This repo contains Object Oriented Programming course labs mainly in c++.
+# Object Oriented Programming
+
+- lab01 (Programming Fundamentals lab)
+- lab02 (Hospital Management System)
+- lab03 (Array Pointer's)
+- lab04 (Heap Memory Management)
+- lab05 (Car System)
+- lab06 (Student Registration)
+- lab07 (Item Selling)
+- lab08 (Mutators and Accessors)
+- lab09 (Collection Management)
+- lab10 (Generic Array class)
+- lab11 (Carpet Calculator)
+- lab12 (inheritance)
+- lab13 (Polymorphism)
